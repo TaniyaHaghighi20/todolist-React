@@ -1,0 +1,20 @@
+.list{
+    background-color: blue;
+    border-radius: 5px;
+    padding-top: 8px;
+    width: 60%;
+    height:100%;
+    margin: auto;
+    overflow: scroll;
+}
+.listContainer{
+    background-color: lightblue;
+    height: 100%;
+    border-radius: 5px;
+}
+.padL{
+    padding-left: 30px;
+    font-size: 20px;
+    color: white;
+
+}

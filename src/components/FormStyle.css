@@ -1,0 +1,28 @@
+.title{
+   width: 95%;
+    height: 30px;
+    background-color: lightgray;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    margin: 8px;
+}
+.textArea{
+    width:95%;
+    background-color: lightgray;
+    border:2px solid transparent;
+    border-radius: 5px;
+    padding:10px;
+    font-size:20px;
+    margin:8px
+}
+.addBtn{
+    background-color: blue;
+    margin:8px;
+    padding:20px;
+    border:2px solid transparent;
+    border-radius: 5px;
+    font-size:20px;
+    width:25%
+}
